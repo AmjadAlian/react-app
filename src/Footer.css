@@ -1,0 +1,13 @@
+.footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    margin: auto;
+    background-color: black;
+}
+
+.footer > span{
+    font-size: 35px;
+    font-weight: 800;
+    color: #fff;
+}
